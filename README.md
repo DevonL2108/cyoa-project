@@ -4,7 +4,7 @@
 
 The purpose of this project is to learn how to collaborate, solve merge problems, and link multiple files.  
 
-Click **here** to begin!  
+Click **[here](choices/start.md)** to begin!  
 
 The diagram for this CYOA project is at the end of the adventure!  
 
