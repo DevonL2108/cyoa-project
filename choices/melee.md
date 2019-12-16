@@ -2,6 +2,8 @@
 
 You have chosen to have a sword fight with the minotaur. During your fight, the minotaur swings his weapon towards you. Do you dodge the attack or block it?  
 
-[Dodge](dodge.md)  
+[Dodge](dodge.md)               
+![](../images/dodge.jpg)       
 
-[Block](escape.md)
+[Block](escape.md)      
+![](../images/block.jpg)     
