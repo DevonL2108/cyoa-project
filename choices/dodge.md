@@ -2,7 +2,7 @@
 
 When you dodged the boss's attacks, you accidently got killed by your fellow companion. 
 
-![](../images)
+![](../images/dodge-death.jpg)           
 
 [Restart](start.md)  
 
