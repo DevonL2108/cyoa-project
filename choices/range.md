@@ -1,4 +1,4 @@
-## You're now dead
+## You're Now Dead
 
 Due to your lack of awareness, you were killed by the surrounding monsters.       
 

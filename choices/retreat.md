@@ -1,4 +1,4 @@
-## You're now dead
+## You're Now Dead
 
 You’ve died from the monsters outside the boss room.           
 

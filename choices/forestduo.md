@@ -1,4 +1,4 @@
-## You're now dead
+## You're Now Dead
 
 Your partner and you were assassinated by your enemies.
 

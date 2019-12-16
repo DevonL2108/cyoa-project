@@ -1,4 +1,4 @@
-## You're now dead
+## You're Now Dead
 
 You stepped on a trap and high level monsters spawned. Your partner and you were killed. 
 

@@ -1,4 +1,4 @@
-## You're now dead
+## You're Now Dead
 
 The mysterious person ended up killing you while you were asleep.    
 

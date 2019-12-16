@@ -1,4 +1,4 @@
-## Joined
+## Join
 
 You're given two options: Do you want to create a guild or go leveling with your companion?
 

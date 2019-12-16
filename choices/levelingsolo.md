@@ -1,4 +1,4 @@
-## Leveling solo
+## Leveling Solo
 
 You encounter paths that led to a cave and a forest: Would you want to go to the cave or the forest?       
 

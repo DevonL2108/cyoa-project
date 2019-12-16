@@ -1,4 +1,4 @@
-## You're now dead
+## You're Now Dead
 
 When you dodged the boss's attacks, you accidently got killed by your fellow companion. 
 

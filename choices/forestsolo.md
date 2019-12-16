@@ -1,4 +1,4 @@
-## You're now dead
+## You're Now Dead
 
 You were assassinated by your enemies.
 
