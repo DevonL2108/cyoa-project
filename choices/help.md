@@ -6,4 +6,4 @@ You have chosen to help the players. When you arrived at the area, you became in
 ![](../images/melee.jpg)         
 
 [Bow](range.md)         
-![](../images/range.png)        
+![](../images/range.png)           
